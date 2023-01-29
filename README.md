@@ -4,7 +4,7 @@ This repository holds the source code and final results for the machine learning
 
 The 'figures' directory holds the various graphs and tables that were produced during the exploratory data analysis and hyperparameter tuning excersies. Through a comprehensive review of the data we were able to determine which features may correlate most strongly with the target variable. This analysis helped to inform the approach used for developing models that would attempt to classify patient's injury.
 
-Ultimately, after a comprehensive review of the data and pipeline processes, the Random Forest Classifier was determined to be the most predictive model. 
+Ultimately, after a comprehensive review of the data and pipeline processes, the Random Forest Classifier was determined to be the most predictive model. This model achieved an average accuracy score of 5.7 standard deviations above the baseline accuracy. 
 
 Software used throughout project:
 
